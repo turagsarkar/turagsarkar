@@ -1,11 +1,13 @@
-div align="center">
+<div align="center">
 
 # Hi there! 👋 I am Md. Abdullah Turag Sarkar
 
 ### 🤖 Junior AI Automation Specialist based in Dhaka, Bangladesh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&weight=500&size=24&pause=1000&color=25D366&center=true&vCenter=true&width=800&lines=AI+Automation+Specialist;Building+Generative+AI+Agents;Automating+Business+Workflows;Data+Processing+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=28&pause=1000&color=E52521&center=true&vCenter=true&width=800&lines=AI+Automation+Specialist;Building+Generative+AI+Agents;Automating+Business+Workflows;Data+Processing+Pipelines)](https://git.io/typing-svg)
 
+<br>
+<img src="https://media1.tenor.com/m/WqK4-8D4zFMAAAAd/mario-running.gif" width="100" />
 <br>
 
 <p align="center">
@@ -46,16 +48,29 @@ div align="center">
 ### `// technical skills`
 
 **LANGUAGES**  
-`Python` `Go` `C++` `JavaScript` `Bash`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,js,bash" />
+</p>
 
 **AI / ML**  
-`TensorFlow` `Keras` `Scikit-learn` `CNN` `DNN`
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat" height="32" />
+  <img src="https://img.shields.io/badge/CNN-D00000?style=flat" height="32" />
+  <img src="https://img.shields.io/badge/DNN-00ADD8?style=flat" height="32" />
+</p>
 
 **FRAMEWORKS**  
-`Django` `REST API` `Google ADK` `Git`
+<p>
+  <img src="https://skillicons.dev/icons?i=django,git" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat" height="32" />
+  <img src="https://img.shields.io/badge/Google_ADK-4EAA25?style=flat" height="32" />
+</p>
 
 **DATABASES**  
-`PostgreSQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
 <br>
 
@@ -98,14 +113,14 @@ div align="center">
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Open_to_work_-_UTC%2B6-031006?style=for-the-badge&logoColor=2ea043&labelColor=031006&color=031006&logo=statuspage" height="28" style="border-radius:15px;"/>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🦖 Need a break?</h3>
-  <p>I built a playable retro "Chrome Offline" Dino game right into my web portfolio!</p>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/PLAY_DINO_RUNNER-2ea043?style=for-the-badge&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Status-Open_to_work_-_UTC%2B6-E52521?style=for-the-badge&logo=statuspage&logoColor=white"/>
+  <br><br>
+  <h3>🍄 Explore My Interactive Profile! 🍄</h3>
+  <i>Visit my web portfolio to experience the full Mushroom Kingdom terminal.</i><br><br>
+  <a href="https://your-portfolio-site.com">
+    <img src="https://img.shields.io/badge/JUMP_IN-E52521?style=for-the-badge&logo=nintendo&logoColor=white"/>
+  </a>
+  <br>
+  <img src="https://media1.tenor.com/m/WqK4-8D4zFMAAAAd/mario-running.gif" width="80" />
 </div>
 
