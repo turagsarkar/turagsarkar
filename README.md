@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 # Hi there! 👋 I am Md. Abdullah Turag Sarkar
 
@@ -31,28 +31,53 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### <span style="color:#F35B3B">05</span> services/
 
-<p align="center">
-  <!-- Beautiful rounded skill icons -->
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,js,bash" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=django,tensorflow,postgres,git,docker" />
-  <br><br>
-  <!-- Custom Badges for tools not in skill-icons -->
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat" height="32" />
-</p>
+| 🤖 **ML Model Development** | ⚙️ **AI Workflow Automation** | 👁️ **Computer Vision Solutions** |
+|:---|:---|:---|
+| Custom machine learning models for classification, regression, and prediction tasks. | Intelligent agentic pipelines using Google ADK and modern AI frameworks. | Object detection, image classification, and visual inspection systems. |
 
----
+| 📊 **Data Analysis & Visualization** | 🐍 **Python Backend & API** | 🧠 **AI / ML Consulting** |
+|:---|:---|:---|
+| Actionable insights from raw data with clean, interactive dashboards. | Django REST APIs and backend systems for ML-powered applications. | Technical guidance on AI strategy, model selection, and implementation roadmaps. |
 
-### 🔬 Research Interests
+<br>
 
-* 🧠 **Intelligent Automation & Generative AI Agents**
-* ⚡ **Decentralized Smart Grid Control Systems**
-* 🏥 **Medical Image Processing and Disease Detection**
+### `// technical skills`
+
+**LANGUAGES**  
+`Python` `Go` `C++` `JavaScript` `Bash`
+
+**AI / ML**  
+`TensorFlow` `Keras` `Scikit-learn` `CNN` `DNN`
+
+**FRAMEWORKS**  
+`Django` `REST API` `Google ADK` `Git`
+
+**DATABASES**  
+`PostgreSQL`
+
+<br>
+
+**LANGUAGE SKILLS**  
+**Bangla** | `Native`<br>
+**English** | `B2 - IELTS 6.0`
+
+<br>
+
+### `// research interests`
+
+| 🩺 **Deep Learning for Healthcare** | 👁️ **Computer Vision** |
+|:---|:---|
+| Medical image analysis, disease diagnostics using CNNs. | Object detection, image segmentation, and facial recognition. |
+
+| ⚙️ **Operations Research** | 🤖 **AI Agents & Automation** |
+|:---|:---|
+| Optimization algorithms and smart grid scheduling. | Agentic systems, LLM-based workflow automation. |
+
+| 📊 **Big Data Analytics** | 🌿 **Agriculture AI** |
+|:---|:---|
+| Large-scale data pipelines. | Plant disease detection and crop analysis. |
 
 ---
 
@@ -79,7 +104,8 @@
 <br>
 
 <div align="center">
-  <h3>🎮 Want to take a break?</h3>
-  <p>I built a playable retro terminal Snake game directly into my web portfolio!</p>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/PLAY_SNAKE_NOW-2ea043?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <h3>🦖 Need a break?</h3>
+  <p>I built a playable retro "Chrome Offline" Dino game right into my web portfolio!</p>
+  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/PLAY_DINO_RUNNER-2ea043?style=for-the-badge&logoColor=white"/></a>
 </div>
+
