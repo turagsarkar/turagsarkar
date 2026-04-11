@@ -1,6 +1,3 @@
-### Hi there 👋
-
-Md. Abdullah Turag Sarkar is a Junior AI Automation Specialist focused on deploying intelligent AI solutions, automating workflows, and scaling business operations.
 
 ```console
 [➜  portfolio git:(master) ✗ cargo run --bin turag-cli -- --addr 127.0.0.1:8080
