@@ -10,7 +10,7 @@
 ```
 
 <h1 align="center">Hi there! 👋 I am MD. Abdullah Turag Sarkar</h1>
-<h3 align="center">🤖 Junior AI Automation Specialist based in Dhaka, Bangladesh</h3>
+<h3 align="center">🤖 Junior AI Automation Specialist </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=28&pause=1000&color=E52521&center=true&vCenter=true&width=800&lines=AI+Automation+Specialist;Building+Generative+AI+Agents;Automating+Business+Workflows;Data+Processing+Pipelines)](https://git.io/typing-svg)
 
@@ -35,9 +35,8 @@
 
 - 🔭 I’m currently working as a **Junior AI Automation Specialist** @ *SM Technology, Betopia Group*.
 - 🌱 I’m constantly learning and exploring **Generative AI** and **Decentralized Smart Grids**.
-- 💬 Ask me about **Python, Machine Learning Pipelines, and Automation Tools (n8n)**.
-- ⚡ Fun fact: I previously served as an IT Supervisor for the Bangladesh Bureau of Statistics during the Population & Housing Census!
-
+- 💬 Ask me about **Python, Machine Learning Pipelines, and Automation Tools**.
+- ⚡ Fun fact: **I hate coding**
 ---
 
 ### 🚀 Services
