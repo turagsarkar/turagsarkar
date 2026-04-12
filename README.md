@@ -1,15 +1,15 @@
 <div align="center">
 
 ```text
-                                                   ████████╗██╗   ██╗██████╗  █████╗  ██████╗   ███████╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗ 
-                                                   ╚══██╔══╝██║   ██║██╔══██╗██╔══██╗██╔════╝   ██╔════╝██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗
-                                                      ██║   ██║   ██║██████╔╝███████║██║  ███╗  ███████╗███████║██████╔╝█████╔╝ ███████║██████╔╝
-                                                      ██║   ██║   ██║██╔══██╗██╔══██║██║   ██║  ╚════██║██╔══██║██╔══██╗██╔═██╗ ██╔══██║██╔══██╗
-                                                      ██║   ╚██████╔╝██║  ██║██║  ██║╚██████╔╝  ███████║██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║
-                                                      ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+            ████████╗██╗   ██╗██████╗  █████╗  ██████╗   ███████╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗ 
+            ╚══██╔══╝██║   ██║██╔══██╗██╔══██╗██╔════╝   ██╔════╝██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗
+               ██║   ██║   ██║██████╔╝███████║██║  ███╗  ███████╗███████║██████╔╝█████╔╝ ███████║██████╔╝
+               ██║   ██║   ██║██╔══██╗██╔══██║██║   ██║  ╚════██║██╔══██║██╔══██╗██╔═██╗ ██╔══██║██╔══██╗
+               ██║   ╚██████╔╝██║  ██║██║  ██║╚██████╔╝  ███████║██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║
+               ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<h1 align="center">Hi there! 👋 I am Md. Abdullah Turag Sarkar</h1>
+<h1 align="center">Hi there! 👋 I am MD. Abdullah Turag Sarkar</h1>
 <h3 align="center">🤖 Junior AI Automation Specialist based in Dhaka, Bangladesh</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=28&pause=1000&color=E52521&center=true&vCenter=true&width=800&lines=AI+Automation+Specialist;Building+Generative+AI+Agents;Automating+Business+Workflows;Data+Processing+Pipelines)](https://git.io/typing-svg)
@@ -25,7 +25,9 @@
 
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br>
 
 ### 👨‍💻 About Me
 
@@ -108,7 +110,9 @@
 >
 > **🌿 Agriculture AI:** Plant disease detection and crop analysis.
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br>
 
 ### 📂 Featured Projects
 
@@ -142,7 +146,9 @@
   </p>
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Open_to_work_-_UTC%2B6-E52521?style=for-the-badge&logo=statuspage&logoColor=white"/>
@@ -153,8 +159,8 @@
     <img src="https://img.shields.io/badge/View_Portfolio_Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <br><br>
-  <p>&copy; 2026 <b>Turag Sarkar</b>. All Rights Reserved.</p>
+  <p>&copy; 2026 <span style="color: #66d9ef; font-family: monospace;"><b>Turag Sarkar</b></span>. All Rights Reserved.</p>
   <br>
-  <img src="https://user-images.githubusercontent.com/43346914/195972591-8ea4f9c5-7f93-4eab-9bf0-f9aaade7855f.gif" width="600" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/assets/dino.gif?raw=true" width="500" />
 </div>
 
