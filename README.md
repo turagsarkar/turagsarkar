@@ -1,7 +1,15 @@
 <div align="center">
 
-# Hi there! 👋 I am Md. Abdullah Turag Sarkar
+```text
+████████╗██╗   ██╗██████╗  █████╗  ██████╗
+╚══██╔══╝██║   ██║██╔══██╗██╔══██╗██╔════╝
+   ██║   ██║   ██║██████╔╝███████║██║  ███╗
+   ██║   ██║   ██║██╔══██╗██╔══██║██║   ██║
+   ██║   ╚██████╔╝██║  ██║██║  ██║╚██████╔╝
+   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ 
+```
 
+# Hi there! 👋 I am Md. Abdullah Turag Sarkar
 ### 🤖 Junior AI Automation Specialist based in Dhaka, Bangladesh
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=28&pause=1000&color=E52521&center=true&vCenter=true&width=800&lines=AI+Automation+Specialist;Building+Generative+AI+Agents;Automating+Business+Workflows;Data+Processing+Pipelines)](https://git.io/typing-svg)
@@ -108,6 +116,16 @@
 
 <div align="center">
   <i>Let's connect and build something amazing!</i>
+  <br><br>
+  
+  <!-- Dock-style Social Footer -->
+  <p align="center">
+    <a href="https://github.com/turagsarkar"><img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub" /></a> &nbsp;&nbsp;
+    <a href="https://linkedin.com/in/turagsarkar"><img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn" /></a> &nbsp;&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="45" title="X (Twitter)" /></a> &nbsp;&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="45" title="Discord" /></a> &nbsp;&nbsp;
+    <a href="mailto:turagsarkar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" title="Email" /></a>
+  </p>
 </div>
 
 ---
@@ -121,6 +139,6 @@
     <img src="https://img.shields.io/badge/JUMP_IN-E52521?style=for-the-badge&logo=nintendo&logoColor=white"/>
   </a>
   <br>
+  <br>
   <img src="https://media1.tenor.com/m/WqK4-8D4zFMAAAAd/mario-running.gif" width="80" />
 </div>
-
