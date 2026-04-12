@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════════ BANNER ═══════════════════════ -->
+<!-- ═══════════════════════════ BANNER ═══════════════════════════ -->
 
 ```
  ████████╗██╗   ██╗██████╗  █████╗  ██████╗    ███████╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗
@@ -11,42 +11,69 @@
     ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<!-- ════════════════════ HEADING ════════════════════ -->
+<!-- ════════════════════════ HEADING ════════════════════════ -->
 
 <h1>Md Abdullah Turag Sarkar</h1>
 <h3>AI Automation Specialist &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Backend Developer</h3>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Agents+%F0%9F%A4%96;Automating+Business+Workflows+%E2%9A%99%EF%B8%8F;Designing+ML+Pipelines+%F0%9F%A7%A0;Open+To+Work+%E2%80%94+Let%27s+Collaborate!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+Intelligent+AI+Agents+%F0%9F%A4%96;Automating+Business+Workflows+%E2%9A%99%EF%B8%8F;Designing+ML+Pipelines+%F0%9F%A7%A0;Open+To+Work+%E2%80%94+Let%27s+Collaborate!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br>
 
-<!-- ════════════════ CONTACT BADGES ════════════════ -->
+<!-- ══════════════ STATUS ROW ══════════════ -->
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=turagsarkar&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open_To_Work-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=turagsarkar&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open_To_Work-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
-<p>
-  <a href="mailto:turagsarkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-turagsarkar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/turagsarkar">
-    <img src="https://img.shields.io/badge/LinkedIn-turagsarkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/turagsarkar">
-    <img src="https://img.shields.io/badge/GitHub-turagsarkar-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://your-portfolio-site.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-6e40c9?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+<br><br>
+
+<!-- ══════════════ CONTACT GRID ══════════════ -->
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:turagsarkar@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/turagsarkar">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/your-number-here">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/turagsarkar">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/turagsarkar">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://your-portfolio-site.com">
+        <img src="https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ══════════════ PIXEL ART DEVELOPER ══════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
 
 </div>
 
@@ -54,7 +81,7 @@
 
 ---
 
-<!-- ════════════════════ ABOUT ════════════════════ -->
+<!-- ════════════════════════ ABOUT ════════════════════════ -->
 
 ## `$ whoami`
 
@@ -83,31 +110,7 @@ class TuragSarkar:
 
 ---
 
-<!-- ════════════════════ GITHUB STATS ════════════════════ -->
-
-## `$ git stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=turagsarkar&show_icons=true&count_private=true&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" height="175" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turagsarkar&layout=compact&langs_count=8&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" height="175" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=turagsarkar&theme=tokyonight&border=30363d&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border_radius=10" height="175" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=turagsarkar&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=6" />
-
-</div>
-
-<br>
-
----
-
-<!-- ════════════════════ TECH STACK ════════════════════ -->
+<!-- ════════════════════════ TECH STACK ════════════════════════ -->
 
 ## `$ tech --list`
 
@@ -118,6 +121,8 @@ class TuragSarkar:
 ### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=django,tensorflow,keras,flask,fastapi&theme=dark" height="42" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="26" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="26" />
@@ -134,6 +139,8 @@ class TuragSarkar:
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" height="42" />
 
+<br>
+
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" height="26" />
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" height="26" />
 <img src="https://img.shields.io/badge/Make.com-000000?style=flat-square&logo=make&logoColor=white" height="26" />
@@ -142,7 +149,7 @@ class TuragSarkar:
 
 ---
 
-<!-- ════════════════════ SERVICES ════════════════════ -->
+<!-- ════════════════════════ SERVICES ════════════════════════ -->
 
 ## `$ services --available`
 
@@ -164,7 +171,7 @@ class TuragSarkar:
 
 ---
 
-<!-- ════════════════════ PROJECTS ════════════════════ -->
+<!-- ════════════════════════ PROJECTS ════════════════════════ -->
 
 ## `$ ls ./projects`
 
@@ -215,56 +222,46 @@ class TuragSarkar:
 
 ---
 
-<!-- ════════════════════ RESEARCH ════════════════════ -->
+<!-- ════════════════════════ RESEARCH ════════════════════════ -->
 
-## `$ cat research_interests.md`
-
-```yaml
-deep_learning_healthcare:
-  focus: Medical image analysis, disease diagnostics via CNNs
-  status: active
-
-computer_vision:
-  focus: Object detection, image segmentation, facial recognition
-  status: active
-
-operations_research:
-  focus: Optimization algorithms, smart grid scheduling
-  status: active
-
-ai_agents_automation:
-  focus: Agentic systems, LLM-based workflow orchestration
-  status: active
-
-agriculture_ai:
-  focus: Plant disease detection, crop health analysis
-  status: exploratory
-```
-
-<br>
-
----
-
-<!-- ════════════════════ CERTIFICATIONS ════════════════════ -->
-
-## `$ certs --verified`
-
-| # | Certification | Issuer | Status |
-|:--|:---|:---|:--|
-| 01 | **Google SEO Fundamentals** | Coursera | ✅ Completed |
-| 02 | **5-Day Gen AI Intensive Course** | Google | ✅ Completed |
-
-<br>
-
----
-
-<!-- ════════════════════ ACTIVITY ════════════════════ -->
-
-## `$ git log --graph`
+## `$ research --areas`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=turagsarkar&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=58a6ff&border_color=30363d&hide_border=false&radius=10" width="100%" />
+<table>
+  <tr>
+    <td align="center" width="190">
+      <br>
+      <img src="https://img.shields.io/badge/🩺_Healthcare_AI-0d1117?style=for-the-badge" /><br><br>
+      <sub>Medical imaging<br>CNN diagnostics</sub>
+      <br><br>
+    </td>
+    <td align="center" width="190">
+      <br>
+      <img src="https://img.shields.io/badge/👁️_Computer_Vision-0d1117?style=for-the-badge" /><br><br>
+      <sub>Object detection<br>Segmentation · Recognition</sub>
+      <br><br>
+    </td>
+    <td align="center" width="190">
+      <br>
+      <img src="https://img.shields.io/badge/⚙️_Ops_Research-0d1117?style=for-the-badge" /><br><br>
+      <sub>Optimization algorithms<br>Smart grid scheduling</sub>
+      <br><br>
+    </td>
+    <td align="center" width="190">
+      <br>
+      <img src="https://img.shields.io/badge/🤖_AI_Agents-0d1117?style=for-the-badge" /><br><br>
+      <sub>LLM orchestration<br>Agentic workflows</sub>
+      <br><br>
+    </td>
+    <td align="center" width="190">
+      <br>
+      <img src="https://img.shields.io/badge/🌿_AgriTech_AI-0d1117?style=for-the-badge" /><br><br>
+      <sub>Plant disease detection<br>Crop health analysis</sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -272,30 +269,78 @@ agriculture_ai:
 
 ---
 
-<!-- ════════════════════ FOOTER ════════════════════ -->
+<!-- ════════════════════════ CERTIFICATIONS ════════════════════════ -->
+
+## `$ certs --verified`
 
 <div align="center">
 
-### `$ connect --with me`
+<a href="https://coursera.org">
+  <img src="https://img.shields.io/badge/✅_Google_SEO_Fundamentals-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="36" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://google.com">
+  <img src="https://img.shields.io/badge/✅_5--Day_Gen_AI_Intensive-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" height="36" />
+</a>
+
+</div>
 
 <br>
 
-<a href="https://github.com/turagsarkar"><img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub" /></a>
+---
+
+<!-- ════════════════════════ CONNECT ════════════════════════ -->
+
+<div align="center">
+
+## `$ connect --with me`
+
+<br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=turagsarkar&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=58a6ff&border_color=30363d&hide_border=false&radius=10" width="100%" />
+
+<br><br>
+
+<!-- Social Icons -->
+<a href="https://github.com/turagsarkar">
+  <img src="https://skillicons.dev/icons?i=github" height="56" title="GitHub" />
+</a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/turagsarkar"><img src="https://skillicons.dev/icons?i=linkedin" height="48" title="LinkedIn" /></a>
+<a href="https://linkedin.com/in/turagsarkar">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="56" title="LinkedIn" />
+</a>
 &nbsp;&nbsp;
-<a href="mailto:turagsarkar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" title="Email" /></a>
+<a href="mailto:turagsarkar@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="56" title="Gmail" />
+</a>
 &nbsp;&nbsp;
-<a href="https://your-portfolio-site.com"><img src="https://skillicons.dev/icons?i=vercel" height="48" title="Portfolio" /></a>
+<a href="https://leetcode.com/u/turagsarkar">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="56" title="LeetCode" />
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/your-number-here">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="56" title="WhatsApp" />
+</a>
+&nbsp;&nbsp;
+<a href="https://your-portfolio-site.com">
+  <img src="https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=googlechrome&logoColor=white" height="56" title="Portfolio" />
+</a>
 
 <br><br>
 
 > *"Code is the closest thing we have to a superpower — use it to build what matters."*
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:58a6ff&height=120&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=c9d1d9&fontAlignY=65&animation=fadeIn" width="100%" />
+<!-- ════ PIXEL ART FOOTER CHARACTER ════ -->
 
-<sub>&copy; 2026 <b>Turag Sarkar</b> · Built with ❤️ and too much ☕</sub>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" />
+
+<br><br>
+
+<sub>&copy; 2026 &nbsp;<b>Turag Sarkar</b>&nbsp; · &nbsp;Built with ❤️ and too much ☕</sub>
 
 </div>
