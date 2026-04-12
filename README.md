@@ -1,18 +1,12 @@
 <div align="center">
 
 ```text
-████████╗██╗   ██╗██████╗  █████╗  ██████╗ 
-╚══██╔══╝██║   ██║██╔══██╗██╔══██╗██╔════╝ 
-   ██║   ██║   ██║██████╔╝███████║██║  ███╗ 
-   ██║   ██║   ██║██╔══██╗██╔══██║██║   ██║ 
-   ██║   ╚██████╔╝██║  ██║██║  ██║╚██████╔╝ 
-   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ 
-                 ███████╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗ 
-                 ██╔════╝██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗
-                 ███████╗███████║██████╔╝█████╔╝ ███████║██████╔╝
-                 ╚════██║██╔══██║██╔══██╗██╔═██╗ ██╔══██║██╔══██╗
-                 ███████║██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║
-                 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+████████╗██╗   ██╗██████╗  █████╗  ██████╗   ███████╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗ 
+╚══██╔══╝██║   ██║██╔══██╗██╔══██╗██╔════╝   ██╔════╝██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗
+   ██║   ██║   ██║██████╔╝███████║██║  ███╗  ███████╗███████║██████╔╝█████╔╝ ███████║██████╔╝
+   ██║   ██║   ██║██╔══██╗██╔══██║██║   ██║  ╚════██║██╔══██║██╔══██╗██╔═██╗ ██╔══██║██╔══██╗
+   ██║   ╚██████╔╝██║  ██║██║  ██║╚██████╔╝  ███████║██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║
+   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 <h1 align="center">Hi there! 👋 I am Turag Sarkar</h1>
@@ -83,39 +77,24 @@
 
 ### 🛠️ Technical Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><b>Languages</b></td>
-    <td align="center" width="25%"><b>AI / ML</b></td>
-    <td align="center" width="25%"><b>Automation & Tools</b></td>
-    <td align="center" width="25%"><b>Databases</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=python,go,cpp,js,bash&perline=3" /></td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=tensorflow,keras" /><br><br>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat" /><br><br>
-      <img src="https://img.shields.io/badge/CNN-D00000?style=flat" /><br><br>
-      <img src="https://img.shields.io/badge/DNN-00ADD8?style=flat" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=django,git" /><br><br>
-      <img src="https://img.shields.io/badge/Google_ADK-4EAA25?style=flat" /><br><br>
-      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Make.com-000000?style=flat&logo=make&logoColor=white" />
-    </td>
-    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=postgres" /></td>
-  </tr>
-</table>
+- **Languages:** &nbsp; <img src="https://skillicons.dev/icons?i=python,go,cpp,js,bash" height="28" />
+- **Databases:** &nbsp; <img src="https://skillicons.dev/icons?i=postgres" height="28" />
+- **Technologies & Frameworks:** &nbsp; <img src="https://skillicons.dev/icons?i=django,tensorflow,keras,git" height="28" /> <img src="https://img.shields.io/badge/REST_API-005571?style=flat" height="28" /> <img src="https://img.shields.io/badge/Google_ADK-4EAA25?style=flat" height="28" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat" height="28" /> <img src="https://img.shields.io/badge/CNN-D00000?style=flat" height="28" /> <img src="https://img.shields.io/badge/DNN-00ADD8?style=flat" height="28" />
+- **Automation Tools:** &nbsp; <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Make.com-000000?style=flat&logo=make&logoColor=white" height="28" />
 
 <br>
 
-**LANGUAGE SKILLS**  
-**Bangla** | `Native`<br>
-**English** | `B2 - IELTS 6.0`
+### 🗣️ Language Skills
+
+- **Bangla:** Native
+- **English:** Upper-Intermediate (IELTS Score - 6.00, CEFR Level - B2)
 
 <br>
+
+### 🏆 Certifications
+
+- **Google SEO** - *Coursera*
+- **5-Day AI Agents Intensive Course** - *Google*
 
 ### 🔬 Research Interests
 
@@ -175,5 +154,7 @@
   </a>
   <br><br>
   <p>&copy; 2026 <b>Turag Sarkar</b>. All Rights Reserved.</p>
+  <br>
+  <img src="https://user-images.githubusercontent.com/43346914/195972591-8ea4f9c5-7f93-4eab-9bf0-f9aaade7855f.gif" width="600" />
 </div>
 
