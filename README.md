@@ -1,165 +1,301 @@
 <div align="center">
 
-```text
-            ████████╗██╗   ██╗██████╗  █████╗  ██████╗   ███████╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗ 
-            ╚══██╔══╝██║   ██║██╔══██╗██╔══██╗██╔════╝   ██╔════╝██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗
-               ██║   ██║   ██║██████╔╝███████║██║  ███╗  ███████╗███████║██████╔╝█████╔╝ ███████║██████╔╝
-               ██║   ██║   ██║██╔══██╗██╔══██║██║   ██║  ╚════██║██╔══██║██╔══██╗██╔═██╗ ██╔══██║██╔══██╗
-               ██║   ╚██████╔╝██║  ██║██║  ██║╚██████╔╝  ███████║██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║
-               ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+<!-- ═══════════════════════ BANNER ═══════════════════════ -->
+
+```
+ ████████╗██╗   ██╗██████╗  █████╗  ██████╗    ███████╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗
+ ╚══██╔══╝██║   ██║██╔══██╗██╔══██╗██╔════╝    ██╔════╝██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗
+    ██║   ██║   ██║██████╔╝███████║██║  ███╗   ███████╗███████║██████╔╝█████╔╝ ███████║██████╔╝
+    ██║   ██║   ██║██╔══██╗██╔══██║██║   ██║   ╚════██║██╔══██║██╔══██╗██╔═██╗ ██╔══██║██╔══██╗
+    ██║   ╚██████╔╝██║  ██║██║  ██║╚██████╔╝   ███████║██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║
+    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<h1 align="center">Hi there! 👋 I am MD. Abdullah Turag Sarkar</h1>
-<h3 align="center">🤖 Junior AI Automation Specialist </h3>
+<!-- ════════════════════ HEADING ════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=28&pause=1000&color=E52521&center=true&vCenter=true&width=800&lines=AI+Automation+Specialist;Building+Generative+AI+Agents;Automating+Business+Workflows;Data+Processing+Pipelines)](https://git.io/typing-svg)
+<h1>Md Abdullah Turag Sarkar</h1>
+<h3>AI Automation Specialist &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Backend Developer</h3>
 
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=turagsarkar&color=blueviolet&style=flat&label=PROFILE+VIEWS" height="28" />
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/🌐_Visit_My_Web_Profile-000000?style=flat&logo=googlechrome&logoColor=white" height="28"/></a>
-  <a href="mailto:turagsarkar@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white" height="28"/></a>
-  <a href="https://linkedin.com/in/turagsarkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/></a>
-  <a href="https://github.com/turagsarkar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28"/></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Agents+%F0%9F%A4%96;Automating+Business+Workflows+%E2%9A%99%EF%B8%8F;Designing+ML+Pipelines+%F0%9F%A7%A0;Open+To+Work+%E2%80%94+Let%27s+Collaborate!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br>
+
+<!-- ════════════════ CONTACT BADGES ════════════════ -->
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=turagsarkar&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_To_Work-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+<p>
+  <a href="mailto:turagsarkar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-turagsarkar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/turagsarkar">
+    <img src="https://img.shields.io/badge/LinkedIn-turagsarkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/turagsarkar">
+    <img src="https://img.shields.io/badge/GitHub-turagsarkar-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://your-portfolio-site.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-6e40c9?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br>
 
-### 👨‍💻 About Me
-
-> Focused on deploying intelligent AI solutions, automating complex workflows, and scaling business operations through seamless tech integration.
-
-- 🔭 I’m currently working as a **Junior AI Automation Specialist** @ *SM Technology, Betopia Group*.
-- 🌱 I’m constantly learning and exploring **Generative AI** and **Decentralized Smart Grids**.
-- 💬 Ask me about **Python, Machine Learning Pipelines, and Automation Tools**.
-- ⚡ Fun fact: **I hate coding**
 ---
 
-### 🚀 Services
+<!-- ════════════════════ ABOUT ════════════════════ -->
+
+## `$ whoami`
+
+```python
+class TuragSarkar:
+    name       = "Md Abdullah Turag Sarkar"
+    role       = "Junior AI Automation Specialist"
+    company    = "SM Technology · Betopia Group"
+    location   = "Bangladesh 🇧🇩"
+    languages  = ["Bangla (Native)", "English (B2 · IELTS 6.0)"]
+
+    focus      = [
+        "Generative AI & LLM-based Agents",
+        "ML Pipeline Design & Deployment",
+        "Business Workflow Automation (n8n, Zapier, Make.com)",
+        "Decentralized Smart Grid Research",
+    ]
+
+    fun_fact   = "Formerly an IT Supervisor for the Bangladesh Population & Housing Census 🏛️"
+
+    def contact(self):
+        return "turagsarkar@gmail.com"
+```
+
+<br>
+
+---
+
+<!-- ════════════════════ GITHUB STATS ════════════════════ -->
+
+## `$ git stats`
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <b>🤖 ML Model Development</b><br>
-        <i>Custom machine learning models for classification, regression, and prediction tasks.</i>
-      </td>
-      <td width="33%" align="center">
-        <b>⚙️ AI Workflow Automation</b><br>
-        <i>Intelligent agentic pipelines using Google ADK and modern AI frameworks.</i>
-      </td>
-      <td width="33%" align="center">
-        <b>👁️ Computer Vision Solutions</b><br>
-        <i>Object detection, image classification, and visual inspection systems.</i>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center">
-        <b>📊 Data Analysis & Visualization</b><br>
-        <i>Actionable insights from raw data with clean, interactive dashboards.</i>
-      </td>
-      <td width="33%" align="center">
-        <b>🐍 Python Backend & API</b><br>
-        <i>Django REST APIs and backend systems for ML-powered applications.</i>
-      </td>
-      <td width="33%" align="center">
-        <b>🧠 AI / ML Consulting</b><br>
-        <i>Technical guidance on AI strategy, model selection, and implementation roadmaps.</i>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=turagsarkar&show_icons=true&count_private=true&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" height="175" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turagsarkar&layout=compact&langs_count=8&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" height="175" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=turagsarkar&theme=tokyonight&border=30363d&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border_radius=10" height="175" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=turagsarkar&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=6" />
+
 </div>
 
 <br>
 
-### 🛠️ Technical Skills
+---
 
-- **Languages:** &nbsp; <img src="https://skillicons.dev/icons?i=python,go,cpp,js,bash" height="28" />
-- **Databases:** &nbsp; <img src="https://skillicons.dev/icons?i=postgres" height="28" />
-- **Technologies & Frameworks:** &nbsp; <img src="https://skillicons.dev/icons?i=django,tensorflow,keras,git" height="28" /> <img src="https://img.shields.io/badge/REST_API-005571?style=flat" height="28" /> <img src="https://img.shields.io/badge/Google_ADK-4EAA25?style=flat" height="28" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat" height="28" /> <img src="https://img.shields.io/badge/CNN-D00000?style=flat" height="28" /> <img src="https://img.shields.io/badge/DNN-00ADD8?style=flat" height="28" />
-- **Automation Tools:** &nbsp; <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Make.com-000000?style=flat&logo=make&logoColor=white" height="28" />
+<!-- ════════════════════ TECH STACK ════════════════════ -->
 
-<br>
+## `$ tech --list`
 
-### 🗣️ Language Skills
+### Languages
 
-- **Bangla:** Native
-- **English:** Upper-Intermediate (IELTS Score - 6.00, CEFR Level - B2)
+<img src="https://skillicons.dev/icons?i=python,go,cpp,js,bash&theme=dark" height="42" />
 
-<br>
+### Frameworks & Libraries
 
-### 🏆 Certifications
+<img src="https://skillicons.dev/icons?i=django,tensorflow,keras,flask,fastapi&theme=dark" height="42" />
 
-- **Google SEO** - *Coursera*
-- **5-Day AI Agents Intensive Course** - *Google*
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=openapiinitiative&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/CNN_/_DNN-D00000?style=flat-square" height="26" />
 
-### 🔬 Research Interests
+### Databases & Cloud
 
-> **🩺 Deep Learning for Healthcare:** Medical image analysis, disease diagnostics using CNNs.
->
-> **👁️ Computer Vision:** Object detection, image segmentation, and facial recognition.
->
-> **⚙️ Operations Research:** Optimization algorithms and smart grid scheduling.
->
-> **🤖 AI Agents & Automation:** Agentic systems, LLM-based workflow automation.
->
-> **🌿 Agriculture AI:** Plant disease detection and crop analysis.
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,gcp&theme=dark" height="42" />
 
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br>
+### Automation & DevOps
 
-### 📂 Featured Projects
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" height="42" />
 
-- 🔌 **Electrical Grid Stability Simulated** 
-  - *Tech Stack:* `Python`, `Scikit-learn`
-  - *Details:* Simulation and prediction modeling for smart grid node stability.
-<br>
-
-- ⚕️ **Identification of Erythemato-Squamous Disease** 
-  - *Tech Stack:* `Python`, `Flask`, `Streamlit`
-  - *Details:* Medical diagnostic web application using machine learning models.
-<br>
-
-- 🌱 **Image-Based Plant Leaf Disease Detection** 
-  - *Tech Stack:* `TensorFlow`, `Keras`
-  - *Details:* CNN-based plant pathology detection tool for agricultural optimization.
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/Make.com-000000?style=flat-square&logo=make&logoColor=white" height="26" />
 
 <br>
+
+---
+
+<!-- ════════════════════ SERVICES ════════════════════ -->
+
+## `$ services --available`
 
 <div align="center">
-  <i>Let's connect and build something amazing!</i>
-  <br><br>
-  
-  <!-- Dock-style Social Footer -->
-  <p align="center">
-    <a href="https://github.com/turagsarkar"><img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub" /></a> &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/turagsarkar"><img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn" /></a> &nbsp;&nbsp;
-    <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="45" title="X (Twitter)" /></a> &nbsp;&nbsp;
-    <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="45" title="Discord" /></a> &nbsp;&nbsp;
-    <a href="mailto:turagsarkar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" title="Email" /></a>
-  </p>
+
+| Service | Description |
+|:---|:---|
+| **🤖 AI Agent Development** | Autonomous agentic pipelines using Google ADK, LangChain, and LLM frameworks |
+| **⚙️ Workflow Automation** | End-to-end business automation with n8n, Zapier, and Make.com |
+| **🧠 ML Model Development** | Classification, regression, time-series, and prediction models from scratch |
+| **👁️ Computer Vision** | Object detection, image segmentation, and CNN-based visual inspection systems |
+| **📊 Data Analytics** | Raw data to actionable insights with clean, interactive dashboards |
+| **🐍 Python Backend & API** | Django / FastAPI REST backends for ML-powered web applications |
+| **💡 AI/ML Consulting** | Strategy, model selection, architecture design, and implementation roadmaps |
+
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br>
+
+---
+
+<!-- ════════════════════ PROJECTS ════════════════════ -->
+
+## `$ ls ./projects`
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_work_-_UTC%2B6-E52521?style=for-the-badge&logo=statuspage&logoColor=white"/>
-  <br><br>
-  <h3>💻 Explore My Interactive CLI Profile! 💻</h3>
-  <br>
-  <a href="https://your-portfolio-site.com">
-    <img src="https://img.shields.io/badge/View_Portfolio_Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <br><br>
-  <p>&copy; 2026 <span style="color: #66d9ef; font-family: monospace;"><b>Turag Sarkar</b></span>. All Rights Reserved.</p>
-  <br>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/assets/dino.gif?raw=true" width="500" />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔌 Electrical Grid Stability Simulator</h3>
+      <p>Simulation and stability prediction modeling for decentralized smart grid nodes using classical ML pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚕️ Erythemato-Squamous Disease Identifier</h3>
+      <p>Medical diagnostic web application using ensemble ML models for dermatological disease classification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Plant Leaf Disease Detector</h3>
+      <p>CNN-based image classification pipeline for real-time plant pathology detection aimed at agricultural optimization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚧 More Coming Soon…</h3>
+      <p>Actively building AI agent systems and automation tools. Stay tuned or reach out to collaborate!</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In_Progress-f0a500?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
+<br>
+
+---
+
+<!-- ════════════════════ RESEARCH ════════════════════ -->
+
+## `$ cat research_interests.md`
+
+```yaml
+deep_learning_healthcare:
+  focus: Medical image analysis, disease diagnostics via CNNs
+  status: active
+
+computer_vision:
+  focus: Object detection, image segmentation, facial recognition
+  status: active
+
+operations_research:
+  focus: Optimization algorithms, smart grid scheduling
+  status: active
+
+ai_agents_automation:
+  focus: Agentic systems, LLM-based workflow orchestration
+  status: active
+
+agriculture_ai:
+  focus: Plant disease detection, crop health analysis
+  status: exploratory
+```
+
+<br>
+
+---
+
+<!-- ════════════════════ CERTIFICATIONS ════════════════════ -->
+
+## `$ certs --verified`
+
+| # | Certification | Issuer | Status |
+|:--|:---|:---|:--|
+| 01 | **Google SEO Fundamentals** | Coursera | ✅ Completed |
+| 02 | **5-Day Gen AI Intensive Course** | Google | ✅ Completed |
+
+<br>
+
+---
+
+<!-- ════════════════════ ACTIVITY ════════════════════ -->
+
+## `$ git log --graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=turagsarkar&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=58a6ff&border_color=30363d&hide_border=false&radius=10" width="100%" />
+
+</div>
+
+<br>
+
+---
+
+<!-- ════════════════════ FOOTER ════════════════════ -->
+
+<div align="center">
+
+### `$ connect --with me`
+
+<br>
+
+<a href="https://github.com/turagsarkar"><img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub" /></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/turagsarkar"><img src="https://skillicons.dev/icons?i=linkedin" height="48" title="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:turagsarkar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" title="Email" /></a>
+&nbsp;&nbsp;
+<a href="https://your-portfolio-site.com"><img src="https://skillicons.dev/icons?i=vercel" height="48" title="Portfolio" /></a>
+
+<br><br>
+
+> *"Code is the closest thing we have to a superpower — use it to build what matters."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:58a6ff&height=120&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=c9d1d9&fontAlignY=65&animation=fadeIn" width="100%" />
+
+<sub>&copy; 2026 <b>Turag Sarkar</b> · Built with ❤️ and too much ☕</sub>
+
+</div>
