@@ -51,7 +51,7 @@ class TuragSarkar:
         "Decentralized Smart Grid Research",
     ]
 
-    fun_fact   = "Formerly an IT Supervisor for the Bangladesh Population & Housing Census 🏛️"
+    fun_fact   = "I hate coding but I work with code"
 
     def contact(self): return "turagsarkar@gmail.com"
 ```
